@@ -1,5 +1,5 @@
 # Sudoku-Solver-with-GeneticAlgorithms-
-In the presented notebook, I attempt to solve the Sudoku puzzle using genetic algorithm. In order to do that, I first solve the N-queens problem with evolutionary computing and then use a similar technique and generalize to the sudoku puzzle.\\
+In the presented notebook, I attempt to solve the Sudoku puzzle using genetic algorithm. In order to do that, I first solve the N-queens problem with evolutionary computing and then use a similar technique and generalize to the sudoku puzzle.
 
 The ingredients for a generic genetic algorithms are the following:
 - **Population**: we start with a randomly generated population;
@@ -9,5 +9,5 @@ The ingredients for a generic genetic algorithms are the following:
 - **Mutation**: how children mutate;
 - Continue until **Terminal Condition** is satisfied.
 
-In the notebook I will explain firmly the used techniques.
+In the notebook I will explain firmly the used techniques applied to the Sudoku Database.
 
